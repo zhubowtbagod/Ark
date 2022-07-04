@@ -12,6 +12,7 @@ public class Client {
     public static void main(String[] args) {
 
         System.out.println("this is merge1");
+        System.out.println("this is merge2");
         Person p1=new Person("aaa-001",10);
         Person p2=new Person("bbb",20);
         Person p3=new Person("baa",15);
